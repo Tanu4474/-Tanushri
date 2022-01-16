@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+    margin-top: 15px;
+    font-family: 'Luxurious Roman', cursive;
+    color: rgb(116, 171, 243);
+}
+body{
+    background-image: url("./images/Background.jpg");
+    background-size: cover;
+}
